@@ -20,6 +20,23 @@
             <li><h2><a href="duck.php">Info</a></h2></li>
         </ul>
     </nav>
-    <?php echo("hello"); ?>
+    <br><br>
+    <div class="bio" align="center">
+        <section class="about">
+            <h1>Duck.io</h1>
+            <?php $logo = 'logo.png'; ?>
+            <img src="<?php echo $logo; ?>">
+            <p>Welcome to Duck.io enjoy everything about ducks!</p>
+            <p>We are a website where you can learn about ducks.</p>
+            <p>This website was a suggestion by users just like you.</p>
+            <p>if you have an idea and wish for that to come to life please contact:</p>
+            <h5>Email: omarsumon1030@gmail.com</h5>
+            <h5>Phone: +1 (832) 777-7292</h5>
+            <h5>Discord: Oman.php 🇴🇲#9024</h5>
+            <h5>Github: @worstfrontendcoder</h5>
+            <p><i>Please note that depending on the size of the project you may have to pay.</i></p>
+        </section>
+    </div>
+    <br><br><br><br><br><br><br><br>
 </body>
 </html>
