@@ -48,7 +48,7 @@
             <h5>Phone: +1 (832) 777-7292</h5>
             <h5>Discord: Oman.php 🇴🇲#9024</h5>
             <h5>Github: @worstfrontendcoder</h5>
-            <p><i>Please note that depending on the size of the project you may have to pay.</i></p>
+            <p><i>Please note that depending on the size of the project, you may have to pay.</i></p>
         </section>
     </div>
     <br><br><br><b><br><br><br><br><br></b>
